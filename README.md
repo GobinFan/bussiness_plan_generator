@@ -28,6 +28,7 @@ streamlit run app.py
 ```
 
 ## To-Do List 
+- [✔] Generate a business plan using llm+prompt
 - [ ] Dialogue among multiple intelligent role-playing agents
 - [ ] Implant search engine
 - [ ] Generate data charts
