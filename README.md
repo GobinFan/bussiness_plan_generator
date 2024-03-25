@@ -2,6 +2,7 @@
 
 ## Introduction
 Let the AI Agent help us write a business plan
+![Uploading image.png…]()
 
 ## Installation
 To install the required libraries, you can use pip:
