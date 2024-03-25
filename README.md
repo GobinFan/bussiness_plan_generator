@@ -24,7 +24,7 @@ pip install openai
 Once the libraries are installed, you can run the Business Plan Generator application using the following command:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_bussiness.py
 ```
 
 ## To-Do List 
