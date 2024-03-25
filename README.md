@@ -8,9 +8,10 @@ To install the required libraries, you can use pip:
 
 ```bash
 pip install streamlit
-
+```
 ```bash
 pip install python-docx
-
+```
 ```bash
 pip install zhipuai 
+```
