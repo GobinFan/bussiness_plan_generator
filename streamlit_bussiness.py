@@ -2,9 +2,8 @@ import streamlit as st
 from docx import Document
 from io import BytesIO
 import base64
-from zhipuai import ZhipuAI
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
+from openai import OpenAI
 st.title("商业计划书生成器")
 
 company = st.text_input("公司名称")
@@ -15,7 +14,7 @@ team = st.text_area("团队成员及分工")
 # Function to generate business plan
 def generate_business_plan(company, describe, product, team):
 
-    client = ZhipuAI(api_key="")  # 填写您自己的APIKey
+ 
 
     def get_task_prompt(company, role, role_describe, describe, product, team, bussiness_content, wrok_content,
                         content_title, word_limit=500):
@@ -51,11 +50,11 @@ def generate_business_plan(company, describe, product, team):
         return content
 
     def get_task(Messages):
-        response = client.chat.completions.create(
-            model="glm-4",  # 填写需要调用的模型名称
-            messages=Messages,
-        )
-        res = response.choices[0].message.content
+        client = OpenAI()
+        completion = client.chat.completions.create(
+          model="gpt-3.5-turbo",
+          messages=Messages)
+        res = completion.choices[0].message.content
         return res
 
     # 企业描述
