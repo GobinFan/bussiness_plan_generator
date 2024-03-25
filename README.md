@@ -1,1 +1,1 @@
-# bussiness_plam_generator
+# bussiness_plan_generator
