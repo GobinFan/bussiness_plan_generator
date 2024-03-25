@@ -34,4 +34,4 @@ streamlit run streamlit_bussiness.py
 - [ ] Generate data charts
 
 
-Welcome interested friends to join us, wx: hyperspace123
+Welcome interested friends to join it, wx: hyperspace123
