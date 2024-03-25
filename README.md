@@ -28,10 +28,10 @@ streamlit run app.py
 ```
 
 ## To-Do List 
-- [✔] Generate a business plan using llm+prompt
+[✔] Generate a business plan using llm+prompt
 - [ ] Dialogue among multiple intelligent role-playing agents
 - [ ] Implant search engine
 - [ ] Generate data charts
 
 
-Feel free to add more tasks or goals as needed. Happy tasking!
+Welcome interested friends to join us, wx: hyperspace123
