@@ -7,4 +7,10 @@ Let the AI Agent help us write a business plan
 To install the required libraries, you can use pip:
 
 ```bash
-pip install streamlit python_doc
+pip install streamlit
+
+```bash
+pip install python-docx
+
+```bash
+pip install zhipuai 
