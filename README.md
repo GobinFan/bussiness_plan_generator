@@ -17,7 +17,7 @@ pip install streamlit
 pip install python-docx
 ```
 ```bash
-pip install zhipuai 
+pip install openai 
 ```
 
 ## Usage
