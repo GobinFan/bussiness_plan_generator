@@ -15,7 +15,7 @@ team = st.text_area("团队成员及分工")
 # Function to generate business plan
 def generate_business_plan(company, describe, product, team):
 
-    client = ZhipuAI(api_key="82411ff36c8ade94213bc7c6e6c088fe.51SGdaOk7edkpCVt")  # 填写您自己的APIKey
+    client = ZhipuAI(api_key="")  # 填写您自己的APIKey
 
     def get_task_prompt(company, role, role_describe, describe, product, team, bussiness_content, wrok_content,
                         content_title, word_limit=500):
