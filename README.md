@@ -25,3 +25,12 @@ Once the libraries are installed, you can run the Business Plan Generator applic
 
 ```bash
 streamlit run app.py
+
+
+## To-Do List 
+- [ ] Dialogue among multiple intelligent role-playing agents
+- [ ] Implant search engine
+- [ ] Generate data charts
+
+
+Feel free to add more tasks or goals as needed. Happy tasking!
