@@ -29,6 +29,7 @@ streamlit run streamlit_bussiness.py
 
 ## To-Do List 
 [✔] Generate a business plan using llm+prompt
+- [ ] RAG Implementation of Business Plan Knowledge Base
 - [ ] Dialogue among multiple intelligent role-playing agents
 - [ ] Implant search engine
 - [ ] Generate data charts
