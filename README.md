@@ -1,8 +1,10 @@
 <div align="center">
     <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png">
+
+# bussiness_plan_generator
 </div>
     
-# bussiness_plan_generator
+
 
 ## Web Application
 Try bussiness_plan_generator live on [hellomiku.com/bussiness](https://hellomiku.com/bussiness/)
