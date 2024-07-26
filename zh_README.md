@@ -2,6 +2,7 @@
     <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png">
 
 # 商业计划生成器
+中文 | [**English**](https://github.com/GobinFan/bussiness_plan_generator/edit/main/README.md)
 </div>
     
 ## Web应用
