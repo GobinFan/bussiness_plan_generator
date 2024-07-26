@@ -1,6 +1,6 @@
 # bussiness_plan_generator
 
-Demo:!["Demo"]([https://hellomiku.com/img/logo.png](https://hellomiku.com/bussiness/))
+Demo:[hellomiku.com/bussiness/](https://hellomiku.com/bussiness/)
 
 ## Introduction
 Let the AI Agent help us write a business plan
