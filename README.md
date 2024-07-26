@@ -2,6 +2,8 @@
     <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png">
 
 # bussiness_plan_generator
+English | [**中文**](https://github.com/GobinFan/bussiness_plan_generator/edit/main/zh_README.md)
+
 </div>
     
 
