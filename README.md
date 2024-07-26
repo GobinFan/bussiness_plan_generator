@@ -43,4 +43,5 @@ streamlit run streamlit_bussiness.py
 ![1711371516117](https://github.com/GobinFan/bussiness_plan_generator/assets/126868284/d78474dc-1a66-4841-8a64-3e6847308b90)
 
 Welcome interested friends to join it, wx: hyperspace123
+
 From Miku Team
