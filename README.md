@@ -1,6 +1,10 @@
+<div align="center">
+    <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png">
+  
 # bussiness_plan_generator
 
-## Demo：  [hellomiku.com/bussiness/](https://hellomiku.com/bussiness/)
+## Web Application
+Try bussiness_plan_generator live on [hellomiku.com/bussiness](https://hellomiku.com/bussiness/)
 
 ## Introduction
 Let the AI Agent help us write a business plan
