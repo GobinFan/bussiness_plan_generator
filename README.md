@@ -13,9 +13,6 @@ Try bussiness_plan_generator live on [hellomiku.com/bussiness](https://hellomiku
 Let the AI Agent help us write a business plan
 ![image](https://github.com/GobinFan/bussiness_plan_generator/assets/126868284/5399371f-1899-4e9a-991b-c48662426c89)
 
-
-
-
 ## Installation
 To install the required libraries, you can use pip:
 
@@ -46,3 +43,4 @@ streamlit run streamlit_bussiness.py
 ![1711371516117](https://github.com/GobinFan/bussiness_plan_generator/assets/126868284/d78474dc-1a66-4841-8a64-3e6847308b90)
 
 Welcome interested friends to join it, wx: hyperspace123
+From Miku Team
